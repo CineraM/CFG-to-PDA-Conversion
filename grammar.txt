@@ -1,0 +1,11 @@
+S abA
+S AA
+S aS
+S ?
+A AS
+A CC
+A aSC
+A Z
+Z y
+C AS
+C b
